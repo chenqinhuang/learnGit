@@ -9,3 +9,4 @@ Creating a new branch without Fast forward.
 local master3,remote master.
 Creating a new branch dev.
 1¡¢git push origin master:dev
+2¡¢git rebase
