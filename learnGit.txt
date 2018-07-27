@@ -6,4 +6,4 @@ Git push origin master.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Creating a new branch without Fast forward.
-local master,remote master.
+local master2,remote master.
